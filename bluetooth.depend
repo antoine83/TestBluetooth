@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1331055271 source:/home/antoine/Programmations/TestBluetooth/src/simplescan.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<sys/socket.h>
+	<bluetooth/bluetooth.h>
+	<bluetooth/hci.h>
+	<bluetooth/hci_lib.h>
+
